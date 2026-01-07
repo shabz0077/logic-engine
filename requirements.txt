@@ -1,0 +1,5 @@
+requests>=2.31.0
+PyYAML>=6.0
+ollama>=0.1.6
+argparse
+beautifulsoup4>=4.12.0
